@@ -8,11 +8,11 @@ I am a Full Stack Developer with 10+ years of experience in developing enterpris
 🛠 Other Skills: Adobe Photoshop, Illustrator, InDesign, PTC Creo<br>
 <br>
 My Angular Libraries:<br>
-🧩 [mat-icon-button-sizes](/btxtiger/mat-icon-button-sizes)<br>
-🧩 [ngx-link-preview](/btxtiger/ngx-link-preview)<br>
-🧩 [ngx-md-icon](/btxtiger/ngx-md-icon)<br>
-🧩 [ngx-serp-preview](/btxtiger/ngx-serp-preview)<br>
-🧩 [ngx-modern-alerts](/btxtiger/ngx-modern-alerts)<br>
+🧩 [mat-icon-button-sizes](https://github.com/btxtiger/mat-icon-button-sizes)<br>
+🧩 [ngx-link-preview](https://github.com/btxtiger/ngx-link-preview)<br>
+🧩 [ngx-md-icon](https://github.com/btxtiger/ngx-md-icon)<br>
+🧩 [ngx-serp-preview](https://github.com/btxtiger/ngx-serp-preview)<br>
+🧩 [ngx-modern-alerts](https://github.com/btxtiger/ngx-modern-alerts)<br>
 
 
 <!--
