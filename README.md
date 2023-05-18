@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-I am a Full Stack Developer with 10+ years of experience in developing enterprise applications and open-source software.
-😍 Preferred Stack: Angular, Laravel, Docker, Ionic, Shopware 6
-🐢 Creating WordPress Websites since 2009
-📖 Currently learning: Thermodynamics, Fluid Mechanics, Native Android Development
-📖 Active Studies: Mechanical Engineering @RWTH Aachen University
-🛠 Other Skills: Adobe Photoshop, Illustrator, InDesign
-
+I am a Full Stack Developer with 10+ years of experience in developing enterprise applications and open-source software.<br>
+😍 Preferred Stack: Angular, Laravel, Docker, Ionic, Shopware 6<br>
+🐢 Creating WordPress Websites since 2009<br>
+📖 Currently learning: Thermodynamics, Fluid Mechanics, Native Android Development<br>
+📖 Active Studies: Mechanical Engineering @RWTH Aachen University<br>
+🛠 Other Skills: Adobe Photoshop, Illustrator, InDesign<br>
+<br>
 My Angular Libraries:
-🧩 [mat-icon-button-sizes](/btxtiger/mat-icon-button-sizes)
-🧩 [ngx-link-preview](/btxtiger/ngx-link-preview)
-🧩 [ngx-md-icon](/btxtiger/ngx-md-icon)
-🧩 [ngx-serp-preview](/btxtiger/ngx-serp-preview)
-🧩 [ngx-modern-alerts](/btxtiger/ngx-modern-alerts)
+🧩 [mat-icon-button-sizes](/btxtiger/mat-icon-button-sizes)<br>
+🧩 [ngx-link-preview](/btxtiger/ngx-link-preview)<br>
+🧩 [ngx-md-icon](/btxtiger/ngx-md-icon)<br>
+🧩 [ngx-serp-preview](/btxtiger/ngx-serp-preview)<br>
+🧩 [ngx-modern-alerts](/btxtiger/ngx-modern-alerts)<br>
 
 
 <!--
