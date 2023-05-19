@@ -4,7 +4,7 @@ I am a Full Stack Developer with 10+ years of experience in developing enterpris
 😍 Preferred: Angular, Laravel, ReactiveX, Docker, Ionic, Shopware 6<br>
 🐢 Creating WordPress Websites since 2009<br>
 📖 Currently Learning: Fluid Mechanics, Thermodynamics, Native Android Development<br>
-📖 Active Studies: Mechanical Engineering @ RWTH Aachen University<br>
+🎓 Active Studies: Mechanical Engineering @ RWTH Aachen University<br>
 🛠 Other Skills: Adobe Photoshop, Illustrator, InDesign, PTC Creo<br>
 <br>
 My Angular Libraries:<br>
