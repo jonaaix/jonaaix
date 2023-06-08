@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Full Stack Software Engineer with 10+ years of experience in developing enterprise applications and open-source software.<br>
+I am a Full Stack Software Engineer with 10+ years of experience in developing enterprise applications, mobile apps and open-source software.<br>
 😍 Preferred: Angular, Laravel, ReactiveX, Docker, Ionic, Shopware 6<br>
 🐢 Creating WordPress Websites since 2009<br>
 📖 Currently Learning: Fluid Mechanics, Numerical Analysis, Native Android Development<br>
