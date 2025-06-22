@@ -10,6 +10,9 @@ I am a Full Stack Software Engineer with 10+ years of experience in developing e
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Shopware 6](https://img.shields.io/badge/-Shopware_6-2680EB?style=flat&logo=shopware&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
 
 #### 🐳 Docker Projects
 - **[laravel-aio-docker](https://github.com/jonaaix/laravel-aio-docker):** All-in-one Docker image for any Laravel application (dev & prod).
