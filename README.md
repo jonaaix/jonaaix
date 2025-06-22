@@ -11,10 +11,9 @@ I am a Full Stack Software Engineer with 10+ years of experience in developing e
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-#### 🐳 Docker Projects
-- **[laravel-aio-docker](https://github.com/jonaaix/laravel-aio-docker):** Out-of-the-box Docker image for running any Laravel application, ready for both development and production use
-- **[shopware6-starter](https://github.com/jonaaix/shopware6-starter):** Production-ready Shopware 6 Docker starter template with preconfigured edge-case handling and best practices
-- **[wordpress-docker](https://github.com/jonaaix/wordpress-docker):** Solid and production-capable Docker setup for running WordPress
+- **[laravel-aio-docker](https://github.com/jonaaix/laravel-aio-docker):** All-in-one Docker image for any Laravel application (dev & prod).
+- **[shopware6-starter](https://github.com/jonaaix/shopware6-starter):** Production-ready Docker starter for Shopware 6 with best practices.
+- **[wordpress-docker](https://github.com/jonaaix/wordpress-docker):** Solid and production-ready Docker setup for running WordPress.
 
 #### 🐘 Laravel Packages
 *Todo*
