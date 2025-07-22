@@ -20,7 +20,8 @@ I am a Full Stack Software Engineer with 10+ years of experience in developing e
 - **[wordpress-docker](https://github.com/jonaaix/wordpress-docker):** Solid and production-ready Docker setup for running WordPress.
 
 #### 🐘 Laravel Packages
-*Todo*
+- **[eloquent-translatable](https://github.com/jonaaix/eloquent-translatable):** High performance, developer-first translations for Laravel models
+- **[laravel-patches](https://github.com/jonaaix/laravel-patches):** A command-based patching system for Laravel
 
 #### 📐 Angular Libraries
 - **[mat-icon-button-sizes](https://github.com/jonaaix/mat-icon-button-sizes):** Size utilities for mat-icon-buttons
