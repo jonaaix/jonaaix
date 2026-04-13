@@ -23,7 +23,11 @@ I am a Full Stack Software Engineer with 10+ years of experience in developing e
 - **[laravel-easy-backups](https://github.com/jonaaix/laravel-easy-backups):** A developer-first, fluent and flexible backup system for Laravel
 - **[laravel-patches](https://github.com/jonaaix/laravel-patches):** A command-based patching system for Laravel
 - **[laravel-smart-log](https://github.com/jonaaix/laravel-smart-log):** Context-aware logging wrapper for Laravel
+- **[laravel-ai-costs](https://github.com/jonaaix/laravel-ai-costs):** Cost tracking for Laravel AI agents
 - **[eloquent-translatable](https://github.com/jonaaix/eloquent-translatable):** High performance, developer-first translations for Laravel models
+
+#### 🧵 Laravel Filament
+- **[filament-chat-bubbles](https://github.com/jonaaix/filament-chat-bubbles):** Chat Heads for Filament panels with real-time messaging
 
 #### 📐 Angular Libraries
 - **[mat-icon-button-sizes](https://github.com/jonaaix/mat-icon-button-sizes):** Size utilities for mat-icon-buttons
