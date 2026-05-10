@@ -25,6 +25,7 @@ I am a Full Stack Software Engineer with 10+ years of experience in developing e
 - **[laravel-smart-log](https://github.com/jonaaix/laravel-smart-log):** Context-aware logging wrapper for Laravel
 - **[laravel-ai-costs](https://github.com/jonaaix/laravel-ai-costs):** Cost tracking for Laravel AI agents
 - **[laravel-countries](https://github.com/jonaaix/laravel-countries):** A modern Laravel country-data package
+- **[laravel-audit-trails](https://github.com/laravel-audit-trails):** A lightweight Laravel audit-log package
 - **[eloquent-translatable](https://github.com/jonaaix/eloquent-translatable):** High performance, developer-first translations for Laravel models
 
 #### 🧵 Laravel Filament
