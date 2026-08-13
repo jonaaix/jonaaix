@@ -19,7 +19,7 @@ I am a Full Stack Software Engineer with 10+ years of experience in developing e
 - **[shopware6-starter](https://github.com/jonaaix/shopware6-starter):** Production-ready Docker starter for Shopware 6 with best practices.
 - **[wordpress-docker](https://github.com/jonaaix/wordpress-docker):** Solid and production-ready Docker setup for running WordPress.
 
-#### 🐘 Laravel Archipel/Islands
+#### 🏝️ Laravel Archipel/Islands
 - **[laravel-islands](https://github.com/jonaaix/laravel-islands):** Elegant JS frontend islands for Laravel
 - **[laravel-islands-datagrid](https://github.com/jonaaix/laravel-islands-datagrid):** A server-driven data table for Laravel Islands
 
