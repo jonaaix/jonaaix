@@ -24,6 +24,7 @@ I am a Full Stack Software Engineer with 10+ years of experience in developing e
 - **[laravel-islands-datagrid](https://github.com/jonaaix/laravel-islands-datagrid):** Server-driven data tables for Laravel Islands
 
 #### 🐘 Laravel Packages
+- **[laravel-tall-architect](https://github.com/jonaaix/laravel-tall-architect):** Opinionated rule set for Laravel development
 - **[laravel-easy-backups](https://github.com/jonaaix/laravel-easy-backups):** A developer-first, fluent and flexible backup system for Laravel
 - **[laravel-patches](https://github.com/jonaaix/laravel-patches):** A command-based patching system for Laravel
 - **[laravel-ai-costs](https://github.com/jonaaix/laravel-ai-costs):** Cost tracking for Laravel AI agents
