@@ -28,6 +28,7 @@ I am a Full Stack Software Engineer with 10+ years of experience in developing e
 - **[laravel-easy-backups](https://github.com/jonaaix/laravel-easy-backups):** A developer-first, fluent and flexible backup system for Laravel
 - **[laravel-patches](https://github.com/jonaaix/laravel-patches):** A command-based patching system for Laravel
 - **[laravel-ai-costs](https://github.com/jonaaix/laravel-ai-costs):** Cost tracking for Laravel AI agents
+- **[laravel-stack-env](https://github.com/jonaaix/laravel-stack-env):** Pre-configured stack .env file
 - **[laravel-countries](https://github.com/jonaaix/laravel-countries):** A modern Laravel country-data package
 - **[laravel-audit-trails](https://github.com/jonaaix/laravel-audit-trails):** A lightweight Laravel audit-log package
 - **[laravel-error-audit](https://github.com/jonaaix/laravel-error-audit):** AI-assisted audit of yesterday's errors and warnings
