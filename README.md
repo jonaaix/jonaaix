@@ -20,6 +20,7 @@ I am a Full Stack Software Engineer with 10+ years of experience in developing e
 - **[wordpress-docker](https://github.com/jonaaix/wordpress-docker):** Solid and production-ready Docker setup for running WordPress.
 
 #### 🏝️ Laravel Islands / Archipelago
+- **[laravel-archipelago](https://github.com/jonaaix/laravel-archipelago):** Bundle of all Laravel Islands packages<br><br>
 - **[laravel-islands](https://github.com/jonaaix/laravel-islands):** Elegant frontend islands for Laravel
 - **[laravel-islands-datagrid](https://github.com/jonaaix/laravel-islands-datagrid):** Server-driven data tables for Laravel Islands
 - **[laravel-islands-search](https://github.com/jonaaix/laravel-islands-search):** Search Modal for Laravel Islands
