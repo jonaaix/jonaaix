@@ -24,6 +24,7 @@ I am a Full Stack Software Engineer with 10+ years of experience in developing e
 - **[laravel-islands-datagrid](https://github.com/jonaaix/laravel-islands-datagrid):** Server-driven data tables for Laravel Islands
 - **[laravel-islands-search](https://github.com/jonaaix/laravel-islands-search):** Search Modal for Laravel Islands
 - **[laravel-islands-filemanager](https://github.com/jonaaix/laravel-islands-filemanager):** A Flexible filemanager for Laravel Islands
+- **[laravel-islands-gallery](https://github.com/jonaaix/laravel-islands-gallery):** An image gallery for Laravel Islands
 
 
 #### 🐘 Laravel Packages
